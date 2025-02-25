@@ -1,1 +1,14 @@
+{
+  "name": "CARGO200",
+  "symbol": "C200",
+  "uri": "",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "BKHeSByWPHFTrqKzyJcFbzpmmW4FRQ28gVJJitV6obfM",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
 
