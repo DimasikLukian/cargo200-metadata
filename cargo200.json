@@ -1,7 +1,7 @@
 {
   "name": "CARGO200",
   "symbol": "C200",
-  "uri": "",
+  "uri": "https://raw.githubusercontent.com/DimasikLukian/cargo200-metadata/refs/heads/main/cargo200.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
