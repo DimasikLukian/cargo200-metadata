@@ -1,9 +1,10 @@
 {
   "name": "CARGO200",
   "symbol": "C200",
-  "uri": "https://raw.githubusercontent.com/DimasikLukian/cargo200-metadata/main/cargo200.json",
+  "uri": "https://raw.githubusercontent.com/DimasikLukian/cargo200-metadata/refs/heads/main/cargo200.json",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/DimasikLukian/cargo200-metadata/main/cargo200.png",
+  "image": "https://raw.githubusercontent.com/DimasikLukian/cargo200-metadata/refs/heads/main/cargo200.png",
+  "description": "CARGO200 (C200) is not just a token—it’s a digital verdict for those who invade the wrong country. Thinking of entering Ukraine? There’s only one road for you—CARGO200. This is a meme, a truth, and a crypto reminder of the inevitable. Every transaction is a nail in the coffin of the occupiers. Support Ukraine, hold C200, and stand on the side of victory!",
   "creators": [
     {
       "address": "BKHeSByWPHFTrqKzyJcFbzpmmW4FRQ28gVJJitV6obfM",
@@ -12,4 +13,3 @@
     }
   ]
 }
-
